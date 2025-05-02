@@ -10,6 +10,6 @@ The ships shoot at you at increasing speeds as the rounds go on
 Once all ships are defeated the next round begins with more enemy ships
 
 
-To run the game download the file and enter cargo run into the terminal
+To run the game download the file and enter "cargo run" into the terminal
 this will generate all other files needed and the game will start
 
